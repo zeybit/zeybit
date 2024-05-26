@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zeynep</h1>
 <h3 align="center">An SE student who is passionate about sharing what I've learned</h3>
 
-- 🔭 I’m currently working on **web design,javascript**
+- 🔭 I’m currently working on **machine learning,pyhton**
 
-- 🌱 I’m currently learning **node js. oracle sql**
+- 🌱 I’m currently learning **data analysis, AI**
 
 - 💬 Ask me about **c++ ,c**
 
